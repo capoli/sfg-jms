@@ -1,0 +1,5 @@
+spring:
+    artemis:
+        mode: native
+        user: root
+        password: root
